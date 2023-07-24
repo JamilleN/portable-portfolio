@@ -1,26 +1,20 @@
-## Project A
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 1
+## Expense Tracker
+An easy to use and responsive Expense Tracker app built by JS and React.js
+- ![Expense Tracker Screeenshot](https://github.com/JamilleN/ExpenseTracker/blob/main/Shorter_SS.png?raw=true)
+- Tags: JS, React.js, html, CSS
 - Badges:
-  - Badge [blue]
+  - JavaScript[orange]
+  - React.js[teal]
+  - html[red]
+  - CSS[blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://jamillen.github.io/ExpenseTracker/]
 
-## Project B
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 2
+## Todo List
+A todo list built by Python
+- ![Todo list screenshot](https://github.com/JamilleN/To_do_list/blob/main/Screenshot.png?raw=true)
+- Tags: Python
 - Badges:
-  - Badge [blue]
+  - Python[yellow]
 - Buttons:
-  - Link [https://example.com]
-
-## Project C
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 3
-- Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/JamilleN/To_do_list]

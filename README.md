@@ -1,6 +1,12 @@
-![hero](example/hero.png)
-
 # Portfolio using React.js and Chakra UI
+
+
+[View Live Demo]()
+![A screenshot]()
+
+Attention: This is a personal website bulit on template shared by [Eldora Boo](https://github.com/eldoraboo/portable-portfolio). Big thanks to Eldora for willing to share this.
+
+#Original README:
 
 This portfolio is built using React.js and Chakra UI. It allows you to quickly create and customize your portfolio website using markdown files.
 
@@ -10,7 +16,7 @@ This portfolio is built using React.js and Chakra UI. It allows you to quickly c
 | ![otherprojects](example/OtherProjects.gif) |   ![mobile](example/Mobile.gif)   |
 |        Include your smaller projects        |     Mobile-responsive design      |
 
-## Getting Started
+### Getting Started
 
 To get started with development, you can use the following commands:
 
@@ -27,7 +33,7 @@ yarn build
 
 After running `yarn start`, your website should be available at `http://localhost:3000`.
 
-## Site Name
+### Site Name
 
 To edit the site name, go to `public/index.html` and change the `<title>`
 
@@ -35,11 +41,11 @@ To edit the site name, go to `public/index.html` and change the `<title>`
 <title>Site Name</title>
 ```
 
-## Editing Content
+### Editing Content
 
 To edit the content on your website, refer to the markdown files located in the `public/content` folder.
 
-### Profile.md
+#### Profile.md
 
 ```
 ## Header
@@ -60,7 +66,7 @@ Write your "Contact" section here.
 - EB
 ```
 
-### ExperienceTags.md and ProjectsTags.md
+#### ExperienceTags.md and ProjectsTags.md
 
 ```
 Category 1
@@ -68,7 +74,7 @@ Category 2
 Category 3
 ```
 
-### Experience.md
+#### Experience.md
 
 To edit your work experience, update the `Experience.md` file with the following format:
 
@@ -84,7 +90,7 @@ To edit your work experience, update the `Experience.md` file with the following
   - Point 2
 ```
 
-### Projects.md
+#### Projects.md
 
 To edit your projects, update the `Projects.md` file with the following format:
 
@@ -99,7 +105,7 @@ Description
   - ButtonContent [button_link]
 ```
 
-### OtherProjects.md
+#### OtherProjects.md
 
 To edit other projects or items, update the `OtherProjects.md` file with the following format:
 
@@ -113,7 +119,7 @@ Description
   - ButtonContent [button_link]
 ```
 
-## Colour Theme
+### Colour Theme
 
 You can choose from 10 different colours provided by Chakra UI. Modify the `color` variable in the `App.js` file located in the `src` folder.
 
@@ -124,11 +130,11 @@ You can choose from 10 different colours provided by Chakra UI. Modify the `colo
 const color = "pink";
 ```
 
-## Customizing Design
+### Customizing Design
 
 You can customize the design of your website by modifying the `theme.js` file located in the `src` folder. Refer to the Chakra UI documentation for more information on how to customize your theme.
 
-## Usage
+### Usage
 
 You may use this template for your own portfolio as long as you give me proper credit by linking back to my profile.
 

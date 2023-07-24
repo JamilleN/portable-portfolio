@@ -42,7 +42,7 @@ export default function Nav({ color }) {
     heroSection.scrollIntoView({ behavior: "smooth" });
   };
   const scrollToAbout = () => {
-    const aboutSection = document.querySelector("#about");
+    const aboutSection = document.querySelector("#hero");
     aboutSection.scrollIntoView({ behavior: "smooth" });
   };
   const scrollToExperience = () => {

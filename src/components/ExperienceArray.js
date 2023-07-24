@@ -44,7 +44,6 @@ const parseExperience = (mdContent) => {
       });
     }
   }
-
   return experience;
 };
 

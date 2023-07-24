@@ -2,18 +2,18 @@
 - Portable Portfolio
 
 ## Header
-- Hi, my name is Eldora. 
-- I'm a software engineer.
-- Short Description Here.
+- Hi, my name is Jamille👋. 
+- I'm a CS💻 student
+- at YorkU in Toronto, Ontario.
 
 ## About
 Write your "About" section here.
 
 ## Contact
 Write your "Contact" section here.
-- LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jamilletni/
+- GitHub: https://github.com/JamilleN
+- Email: jamilletni@gmail.com
 
 ## Logo
 - EB
