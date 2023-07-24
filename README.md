@@ -1,6 +1,6 @@
 # Portfolio using React.js and Chakra UI
 
-[##View Live Demo##](https://jamilleni.netlify.app/)
+[**View Live Demo**](https://jamilleni.netlify.app/)
 
 ![A screenshot](https://github.com/JamilleN/portable-portfolio/blob/f389faed976d8251dd7b62c23763c7aea49d3b69/public/assets/website_ss.png)
 
