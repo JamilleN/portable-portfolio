@@ -1,7 +1,7 @@
 # Portfolio using React.js and Chakra UI
 
 
-[View Live Demo]()
+[View Live Demo](https://jamilleni.netlify.app/)
 ![A screenshot]()
 
 Attention: This is a personal website bulit on template shared by [Eldora Boo](https://github.com/eldoraboo/portable-portfolio). Big thanks to Eldora for willing to share this.
