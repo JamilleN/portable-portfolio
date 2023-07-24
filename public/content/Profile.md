@@ -16,4 +16,4 @@ Write your "Contact" section here.
 - Email: jamilletni@gmail.com
 
 ## Logo
-- EB
+- JN
