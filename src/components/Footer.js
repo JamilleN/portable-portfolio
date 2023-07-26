@@ -19,7 +19,7 @@ export default function Footer() {
         align="center"
       >
         <Text>© 2023 Implemented by Jamille Ni. All rights reserved</Text>
-        <Text>Built on template shared by <u><a href="https://github.com/eldoraboo">Eldora Boo</a></u></Text>
+        <Text>Built on template shared by <u><a href="https://github.com/eldoraboo" target="_blank " rel="noreferrer">Eldora Boo</a></u></Text>
       </Container>
     </Box>
   );
