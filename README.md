@@ -1,12 +1,13 @@
 # Portfolio using React.js and Chakra UI
 
+[**View Live Demo**](https://jamilleni.netlify.app/)
 
-[View Live Demo](https://jamilleni.netlify.app/)
-![A screenshot]()
+![A screenshot](https://github.com/JamilleN/portable-portfolio/blob/f389faed976d8251dd7b62c23763c7aea49d3b69/public/assets/website_ss.png)
 
-Attention: This is a personal website bulit on template shared by [Eldora Boo](https://github.com/eldoraboo/portable-portfolio). Big thanks to Eldora for willing to share this.
+**Attention**: This is a personal website bulit on template shared by [Eldora Boo](https://github.com/eldoraboo/portable-portfolio). Big thanks to Eldora for willing to share this.
 
-#Original README:
+
+# Original README:
 
 This portfolio is built using React.js and Chakra UI. It allows you to quickly create and customize your portfolio website using markdown files.
 
