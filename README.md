@@ -2,7 +2,7 @@
 
 [**View Live Demo**]([https://www.jamilleni.dev/)
 
-![A screenshot]([./public/assets/website_ss.png](https://github.com/JamilleN/portable-portfolio/blob/b9c980c65cd1c26409c44e23e1ecdb8bb0f244a7/public/assets/website_ss.png)
+![A screenshot](https://github.com/JamilleN/portable-portfolio/blob/b9c980c65cd1c26409c44e23e1ecdb8bb0f244a7/public/assets/website_ss.png)
 
 **Attention**: This is a personal website bulit on template shared by [Eldora Boo](https://github.com/eldoraboo/portable-portfolio). Big thanks to Eldora for willing to share this.
 
