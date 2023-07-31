@@ -7,7 +7,10 @@
 - at YorkU in Toronto, Ontario.
 
 ## About
-Write your "About" section here.
+- A casual piano player🎹 (totally uncommon among Asians folks😉)
+- A proud cat🐱 parent (even though I am allergic to cats)
+- A hiking🚶‍♂️ enthusiast
+- A firm believer of "walk slowly, but never walk backward"🤗
 
 ## Contact
 Write your "Contact" section here.

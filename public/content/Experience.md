@@ -5,8 +5,8 @@
 - Badges:
   - Web Development [purple]
 - List Items:
-  - Point 1
-  - Point 2
+  - Working with other developers on implementing new functions (i.e. events cards) to provide a better user experience for York University students
+  - Maintaining the current website built with React.js, HTML, CSS and JavaScript
 
 ## Dig Insights Inc.
 - *Research Analyst* | Sep. 2020 - Sep. 2022
