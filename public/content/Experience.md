@@ -6,7 +6,7 @@
   - Web Development [purple]
 - List Items:
   - Working with other developers on implementing new functions (i.e. events cards) to provide a better user experience for York University students
-  - Maintaining the current website built with React.js, HTML, CSS and JavaScript
+  - Maintaining the current website built with Vanilla JavaScript, HTML and CSS  
 
 ## Dig Insights Inc.
 - *Research Analyst* | Sep. 2020 - Sep. 2022
