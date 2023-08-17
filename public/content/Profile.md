@@ -3,7 +3,7 @@
 
 ## Header
 - Hi, my name is Jamille👋. 
-- I'm a CS💻 student
+- I'm a 2nd year CS💻 student
 - at YorkU in Toronto, Ontario.
 
 ## About
