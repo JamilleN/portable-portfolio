@@ -8,7 +8,7 @@ A lightweight student grades management app built by Java and Spring Boot
   - HTML[blue]
   - CSS[blue]
 - Buttons:
-  - Link [https://grade-manager-57816ff9700a.herokuapp.com/]
+  - Link [https://github.com/JamilleN/GradeManager]
 
 ## Expense Tracker
 An easy to use and responsive Expense Tracker app built by JS and React.js
@@ -20,7 +20,7 @@ An easy to use and responsive Expense Tracker app built by JS and React.js
   - HTML[blue]
   - CSS[blue]
 - Buttons:
-  - Link [https://jamillen.github.io/ExpenseTracker/]
+  - Link [https://github.com/JamilleN/ExpenseTracker]
 
 ## Todo List
 A todo list built by Python
