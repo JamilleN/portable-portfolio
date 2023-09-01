@@ -3,8 +3,8 @@
 
 ## Header
 - Hi, my name is Jamille👋. 
-- I'm a 2nd year CS💻 student
-- at YorkU in Toronto, Ontario.
+- I'm a CS💻 student at YorkU in Toronto, Ontario.
+- Expectation Graduate Date - April 2025
 
 ## About
 - A casual piano player🎹 (totally uncommon among Asians folks😉)
