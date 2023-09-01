@@ -5,8 +5,8 @@
 - Badges:
   - Web Development [purple]
 - List Items:
-  - Implementing new functions (i.e. events cards) with other developers to provide a better user experience for York University students who are seeking for tutors.
-  - Maintaining the current website built with Vanilla JavaScript, HTML, CSS. 
+  - Collaborating with a group of developers to integrate improved features (such as event cards) aimed at enhancing the experience for students at York.
+  - Updating and maintaining the current website built with Vanilla JavaScript, HTML, CSS. 
 
 ## Dig Insights Inc.
 - *Research Analyst* | Sep. 2020 - Sep. 2022
@@ -15,6 +15,6 @@
 - Badges:
   - Other [grey]
 - List Items:
-  - Collaborated with colleagues on all aspects of the research project lifecycle.
-  - Contributed to client meetings as an active participant in delivering superior client service.
-  - Managed field suppliers to ensure that projects are delivered on time and on budget.
+  - Conducted researches to reinforce insights drawn from primary research findings.
+  - Analyzed tables, extracted and combined data, and presented it visually.
+  - Supervised external vendors to guarantee timely and cost-effective project completion.
