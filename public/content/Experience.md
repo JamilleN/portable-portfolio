@@ -1,3 +1,12 @@
+## IBM Canada
+- *Software Engineer Intern* | Incoming Jan. 2024
+- ![IBM Logo](https://www.ibm.com/brand/experience-guides/developer/8f4e3cc2b5d52354a6d43c8edba1e3c9/02_8-bar-reverse.svg)
+- Tags: Professional
+- Badges:
+  - Software Development [orange]
+- List Items:
+  - Incoming SWE intern at IBM Canada (Jan. 2024 - Dec. 2024)
+
 ## Excel Lassonde
 - *Web Developer* | Jul. 2023 - present
 - ![Excel Lassonde Logo](../assets/excel_lassonde_logo.png)
@@ -5,12 +14,12 @@
 - Badges:
   - Web Development [purple]
 - List Items:
-  - Collaborating with a group of developers to integrate improved features (such as event cards) aimed at enhancing the experience for students at York.
-  - Updating and maintaining the current website built with Vanilla JavaScript, HTML, CSS. 
+  - Updated and upkept the current website built with JS, HTML, CSS.
+  - Collaborating with a group of developers to integrate improved features (such as event cards) aimed at enhancing the experience for students at York
 
 ## Dig Insights Inc.
 - *Research Analyst* | Sep. 2020 - Sep. 2022
-- ![Dig Insights Inc. Logo](https://media.licdn.com/dms/image/C560BAQEE7tdoJQqxNA/company-logo_200_200/0/1653924133607?e=1698278400&v=beta&t=9AtI1ge1SErI8r-uDsbCMieo7CudUcitNhRxGqPXZjQ)
+- ![Dig Insights Inc. Logo](https://media.licdn.com/dms/image/C560BAQEE7tdoJQqxNA/company-logo_200_200/0/1653924133966/dig_insights_logo?e=1707350400&v=beta&t=3alIa-B5bxWIqHL3lYxAyWXGwYei8ehI45sjncBhe4U)
 - Tags: Profesional 
 - Badges:
   - Other [grey]

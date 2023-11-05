@@ -3,8 +3,8 @@
 
 ## Header
 - Hi, my name is Jamille👋. 
-- I'm a CS💻 student at YorkU in Toronto, Ontario.
-- Expectation Graduate Date - April 2025
+- An incoming SWE intern at IBM.
+- A CS student at YorkU, expected graduation date - April 2025.
 
 ## About
 - A casual piano player🎹 (totally uncommon among Asians folks😉)
