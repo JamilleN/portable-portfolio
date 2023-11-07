@@ -5,7 +5,7 @@
 - Badges:
   - Software Development [orange]
 - List Items:
-  - Incoming SWE intern at IBM Canada (Jan. 2024 - Dec. 2024)
+  - Incoming SWE intern at IBM Canada
 
 ## Excel Lassonde
 - *Web Developer* | Jul. 2023 - present
