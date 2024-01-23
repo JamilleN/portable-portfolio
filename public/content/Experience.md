@@ -1,11 +1,11 @@
 ## IBM Canada
-- *Software Engineer Intern* | Incoming Jan. 2024
+- *Software Engineer Intern* | Jan. 2024 - present
 - ![IBM Logo](https://www.ibm.com/brand/experience-guides/developer/8f4e3cc2b5d52354a6d43c8edba1e3c9/02_8-bar-reverse.svg)
 - Tags: Professional
 - Badges:
   - Software Development [orange]
 - List Items:
-  - Incoming SWE intern at IBM Canada
+  - Working as a backend SWE intern in the IBM Watson Knowledge Catalog DPX API team
 
 ## Excel Lassonde
 - *Web Developer* | Jul. 2023 - present
