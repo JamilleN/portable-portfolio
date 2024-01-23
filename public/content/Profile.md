@@ -3,7 +3,7 @@
 
 ## Header
 - Hi, my name is Jamille👋. 
-- An incoming SWE intern at IBM.
+- A bakcend SWE intern at IBM.
 - A CS student at YorkU, expected graduation date - April 2025.
 
 ## About
