@@ -19,7 +19,7 @@
 
 ## Dig Insights Inc.
 - *Research Analyst* | Sep. 2020 - Sep. 2022
-- ![Dig Insights Inc. Logo](https://media.licdn.com/dms/image/C560BAQEE7tdoJQqxNA/company-logo_200_200/0/1653924133966/dig_insights_logo?e=1707350400&v=beta&t=3alIa-B5bxWIqHL3lYxAyWXGwYei8ehI45sjncBhe4U)
+- ![Dig Insights Inc. Logo](../assets/dig_insights_logo.png)
 - Tags: Profesional 
 - Badges:
   - Other [grey]
