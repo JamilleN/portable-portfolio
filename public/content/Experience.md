@@ -5,7 +5,7 @@
 - Badges:
   - Software Development [orange]
 - List Items:
-  - Working as a backend SWE intern in the IBM Watson Knowledge Catalog DPX API team
+  - Working as a backend SWE intern in the IKC DPX API team
 
 ## Excel Lassonde
 - *Web Developer* | Jul. 2023 - present
